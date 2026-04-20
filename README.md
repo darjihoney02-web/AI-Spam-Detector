@@ -23,7 +23,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It%20Now-00D4FF?style=for-the-badge)]([https://your-demo-link.streamlit.app](https://ai-spam-detector-pwcgtj6xuyded9guup4m6d.streamlit.app/))
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It%20Now-00D4FF?style=for-the-badge)](https://ai-spam-detector-pwcgtj6xuyded9guup4m6d.streamlit.app/)
 [![View Source](https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/spamshield-ai)
 [![Report Bug](https://img.shields.io/badge/🐛%20Report%20Bug-Issues-FF4B4B?style=for-the-badge)](https://github.com/yourusername/spamshield-ai/issues)
 
